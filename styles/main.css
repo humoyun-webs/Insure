@@ -1,0 +1,299 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    overflow-x: hidden;
+}
+.logo{
+    position: relative;
+    margin: 40px 200px;
+}
+.header{
+    display: flex;
+}
+.menu{
+    position: relative;
+    display: flex;
+    list-style-type: none;
+    margin-top: 40px;
+    font-weight: 600;
+    color: gray;
+    margin-left: 750px;
+    list-style-type: none;
+
+
+}
+.bold{
+    color: black;
+    border: 2px solid black;
+    height: 25px;
+    width: 120px;
+    text-align: center;
+    padding-top:5px ;
+    margin-top: -5px;
+    cursor: pointer;
+}
+.blue_box1{
+    height: 700px;
+    width: 100%;
+    
+    background-color: darkslateblue;
+}
+.img2{
+    position: relative;
+    margin-top: -200px;
+}
+.img1{
+    position: relative;
+    padding-left: 1500px;
+}
+.family{
+    position: absolute;
+    margin-top: -750px;
+    margin-left: 1050px;
+}
+.chiziq{
+    position: absolute;
+    padding-left: 200px;
+    color: white;
+    font-weight: 900;
+    margin-top: -500px;
+    font-size: 2em;
+}
+.Sarlavha1{
+    position: relative;
+    font-weight: 900;
+    font-size: 36px;
+    color: white;
+    margin-top: -400px;
+    padding-left: 100px;
+}
+.blue_box_text{
+    color: white;
+    padding-left:100px;
+    margin-top: 100px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.button1{
+    position: relative;
+    height: 25px;
+    width: 120px;
+    background-color: darkslateblue;
+    border: 2px solid white;
+    color: white;
+    margin-left: 170px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 5px;
+    box-shadow: 0px 2px 2px;
+    cursor: pointer;
+}
+.chiziq2{
+    margin-top:-50px ;
+    margin-left: 100px;
+}
+.Sarlavha2{
+    position: relative;
+    margin-top: 50px;
+    font-size: 36px;
+    margin-left: 100px;
+    font-weight: 900;
+
+}
+.card1{
+    position: relative;
+    height: 300px;
+    width: 450px;
+    margin-left: 100px;
+    padding-top: 40px;
+    margin-top: 50px;
+}
+.Snappy{
+    position: relative;
+    padding-top: 20px;
+    font-weight: 900;
+    font-size: 2em;
+    color: black;
+
+}
+.cards_text{
+    font-size: 25px;
+    position: relative;
+    color: gray;
+}
+.cards{
+    display: flex;
+}
+.card2{
+    position: relative;
+    height: 300px;
+    width: 450px;
+    margin-left: 100px;
+    padding-top: 40px;
+    margin-top: 50px;
+}
+.card3{
+    position: relative;
+    height: 300px;
+    width: 450px;
+    margin-left: 100px;
+    padding-top: 40px;
+    margin-top: 50px;
+}
+.blue_box2{
+    position: relative;
+    height: 350px;
+    width: 1600px;
+    background-color: darkslateblue;
+    margin:300px auto;
+}
+.blue_box2 img{
+    position: absolute;
+    padding-left: 990px;
+
+}
+.Sarlavha3{
+    position: relative;
+    color: white;
+    padding: 100px;
+    font-size: 4em;
+}
+.button2{
+    position: relative;
+    height: 25px;
+    width: 150px;
+    border: 2px solid white;
+    color: white;
+    margin-top: -200px;
+    margin-left:1300px;
+    text-align: center;
+    padding-top: 5px;
+    box-shadow: 0px 2px 2px;
+    cursor: pointer;
+}
+.box_gray{
+    position: absolute;
+    height: 550px;
+    width: 100%;
+    background-color: rgb(214, 220, 223);
+}
+.logo2{
+    position: relative;
+    /* margin-left: 100px;
+    margin-bottom: 200px; */
+   margin-top: 80px;
+   margin-left: 150px;
+}
+.logos{
+    display: inline-block;
+}
+.smm{
+    margin-top: -30px;
+    padding-left: 1600px;
+    
+    
+    display: flex;
+    
+}
+.Royhat1{
+    position: relative;
+    font-size: 22px;
+    color: black;
+    font-weight: 900;
+    padding-left: 140px;
+    padding-top: 50px;
+    list-style-type: none;
+    cursor: pointer;
+
+}
+.Our{
+    color: gray;
+}
+.Royhat2{
+    position: relative;
+    color: black;
+    font-size: 22px;
+    font-weight: 900;
+    margin-top: -250px;
+    padding-left: 540px;
+    list-style-type: none;
+    cursor: pointer;
+}
+.Royhat3{
+    position: relative;
+    color: black;
+    font-size: 22px;
+    font-weight: 900;
+    margin-top: -260px;
+    padding-left: 940px;
+    list-style-type: none;
+    cursor: pointer;
+}
+.Royhat4{
+    position: relative;
+    color: black;
+    font-size: 22px;
+    font-weight: 900;
+    margin-top: -230px;
+    padding-left: 1340px;
+    list-style-type: none;
+    cursor: pointer;
+}
+.How{
+    position: relative;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.How:hover{
+    font-size: 20px;
+    font-weight: 900;
+    transition: 0.2s;
+    color: black;
+
+}
+.Blog{
+    position: relative;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.Blog:hover{
+    font-size: 20px;
+    font-weight: 900;
+    transition: 0.2s;
+    color: black;
+
+}
+.Account{
+    position: relative;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.Account:hover{
+    font-size: 20px;
+    font-weight: 900;
+    transition: 0.2s;
+    color: black;
+
+}
+.bold:hover{
+    width: 140px;
+    transition: 0.4s;
+}
+.button1:hover{
+    width: 100px;
+    background-color: white;
+    color: darkslateblue;
+    box-shadow: 0px 2px 2px;
+    transition: 0.4s;
+}
+.button2:hover{
+    width: 130px;
+    background-color: white;
+    color: darkslateblue;
+    box-shadow: 0px 2px 2px;
+    transition: 0.4s;
+}
